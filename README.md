@@ -1,2 +1,2 @@
-# chagoms
+# Redcompost
 Ejemplo de un Github PAGES

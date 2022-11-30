@@ -63,6 +63,7 @@ Octubre del 2016 a Junio del 2019
 
 ### Profesional voluntario de oficina 🌎
 _Fundación América Solidaria, Santiago de Chile_
+
 Mayo del 2016 a Diciembre del 2016  
 - Revisión presupuestaria de proyectos internacionales
 

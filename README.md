@@ -1,5 +1,4 @@
 # Santiago Andres Farías Hurtado 🧑🏾‍💻
-----
 
 #Python #DataAnalyst #DataScience #Sql #Pandas #Matplotlib #Statmodel #Numpy #Scikit-learn #Wordpress #Markdown #Latex #Postgresql #MySql #MongoDB #Git #PublicPolicy #Covid #Policies 
 

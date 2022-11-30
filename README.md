@@ -6,13 +6,13 @@
 - Email: santiagofariash@gmail.com
 
 ## Sobre mi 🌱
-Soy Santiago Farías Ingeniero Civil Industrial y Magíster en Políticas Públicas de la Universidad Diego Portales, certificado en la carrera de Data Science de la academia Desafio Latam.
+Soy Santiago Farías Ingeniero Civil Industrial y Magíster en Políticas Públicas de la Universidad Diego Portales, certificado en la carrera de Data Science de la academia Desafio Latam. 
 
 Durante el transcurso de mi vida profesional me he interesado en tópicos de análisis de datos, econometría y metodos de evaluación de impacto. Considero que utilizar herramientas de modelaje de datos y posteriormente su correcta interpretación son habilidades fundamentales para la correcta toma de decisiones políticas y económicas dentro de una institucion. 
 
 El Magíster me entrego conocimientos para elaborar proyectos de innovación en las políticas públicas, mediante la metodología Ágil y una mirada estadística para modelar e inferir información. El Policy paper elaborado para la titularme de este, consistió en una propuesta de automatizar el proceso de Trazabilidad de casos y contactos de SARS Covid-19 mediante Bots. Este fue un proyecto colaborativo entre el departamento de políticas públicas de Facebook latinoamerica y el Laboratorio de Gobierno del Ministerio de Hacienda.
 
-Me considero una persona metódica, ordenada y muy sociable, me gusta compartir con el equipo dentro y fuera del trabajo. En el ámbito laboral disfruto enfocarme en las tareas de desarrollo, personalmente me siento comodo programando en Python y automatizar procesos. Considero que la horizontalidad, el trabajo en equipo y la cooperación son esenciales para el éxito de cualquier organización.
+Me considero una persona metódica, ordenada y muy sociable, me gusta compartir con el equipo dentro y fuera del trabajo. En el ámbito laboral disfruto enfocarme en las tareas de desarrollo enfocado a las metas. Considero que la horizontalidad, el trabajo en equipo y la cooperación son esenciales para el éxito de cualquier organización.
 
 ## Educación 📚
 - [Ingenieria Civil Industrial](https://github.com/santiagofh/santiagofh.github.io/blob/1b62b3575d59a9c0bb436c715849b20ada4eb34f/SANTIAGO%20ANDRES%20FARIAS%20HU%20RTADO%20grado%20acade%CC%81mico.pdf), Universidad Diego Portales (2010 al 2014)

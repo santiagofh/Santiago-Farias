@@ -18,6 +18,10 @@ Me considero una persona metódica, ordenada y muy sociable, me gusta compartir 
 - Ingenieria Civil Industrial, Universidad Diego Portales (2010 al 2014)
 - [Magister en Políticas](https://github.com/santiagofh/santiagofh.github.io/blob/163a235c3ce63ed694ca6a30149f4f8afe46c72d/SANTIAGO%20ANDRES%20FARIAS%20HU%20RTADO%20grado%20acade%CC%81mico.pdf), Universidad Diego Portales (2018 al 2021) 
 - Carrera de Data Science, Academia Desafío Latam (2021 al 2022)
+  - [Introducción a la Programación con Python](https://github.com/santiagofh/santiagofh.github.io/blob/0fb0df1f55f859a0dc960a9a10bcec5af0afa892/aprobacion-modulos-cursos-b-learning-introduccion-a-la-programacion-con-python-g37-9850-2.png)
+  - [Fundamentos Data Science](https://github.com/santiagofh/santiagofh.github.io/blob/0fb0df1f55f859a0dc960a9a10bcec5af0afa892/aprobacion-modulos-cursos-b-learning-fundamentos-data-science-g37-9850.png)
+  - [Machine Learning](https://github.com/santiagofh/santiagofh.github.io/blob/0fb0df1f55f859a0dc960a9a10bcec5af0afa892/aprobacion-modulos-cursos-b-learning-machine-learning-g44-9850.png)
+  - [SQL para Data Science](https://github.com/santiagofh/santiagofh.github.io/blob/0fb0df1f55f859a0dc960a9a10bcec5af0afa892/aprobacion-modulos-cursos-b-learning-sql-para-data-science-g44-9850.png)
 
 ## Habilidades 🐍
 - Data Analysis: Python, librerias Pandas, Statmodel y Numpy

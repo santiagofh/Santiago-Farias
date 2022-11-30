@@ -3,9 +3,7 @@
 #Python #DataAnalyst #DataScience #Sql #Pandas #Matplotlib #Statmodel #Numpy #Scikit-learn #Wordpress #Markdown #Latex #Postgresql #MySql #MongoDB #Git #PublicPolicy #Covid #Policies 
 
 ## Contacto 📫
-- Telefono: +56935775364
-- Email: santiagofariash@gmail.com, santiagofariash@icloud.com
-- https://santiagofh.github.io
+- Email: santiagofariash@gmail.com
 
 ## Sobre mi 🌱
 Soy Santiago Farías Ingeniero Civil Industrial y Magíster en Políticas Públicas de la Universidad Diego Portales, certificado en la carrera de Data Science de la academia Desafio Latam. 

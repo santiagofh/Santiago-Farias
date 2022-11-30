@@ -16,7 +16,7 @@ Me considero una persona metódica, ordenada y muy sociable, me gusta compartir 
 
 ## Educación 📚
 - Ingenieria Civil Industrial, Universidad Diego Portales (2010 al 2014)
-- (Magister en Políticas) Públicas[https://github.com/santiagofh/santiagofh.github.io/blob/163a235c3ce63ed694ca6a30149f4f8afe46c72d/SANTIAGO%20ANDRES%20FARIAS%20HU%20RTADO%20grado%20acade%CC%81mico.pdf], Universidad Diego Portales (2018 al 2021) 
+- [Magister en Políticas](https://github.com/santiagofh/santiagofh.github.io/blob/163a235c3ce63ed694ca6a30149f4f8afe46c72d/SANTIAGO%20ANDRES%20FARIAS%20HU%20RTADO%20grado%20acade%CC%81mico.pdf), Universidad Diego Portales (2018 al 2021) 
 - Carrera de Data Science, Academia Desafío Latam (2021 al 2022)
 
 ## Habilidades 🐍

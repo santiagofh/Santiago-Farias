@@ -10,7 +10,7 @@ Soy Santiago Farías Ingeniero Civil Industrial y Magíster en Políticas Públi
 
 Durante el transcurso de mi vida profesional me he interesado en tópicos de análisis de datos, econometría y metodos de evaluación de impacto. Considero que utilizar herramientas de modelaje de datos y posteriormente su correcta interpretación son habilidades fundamentales para la correcta toma de decisiones políticas y económicas dentro de una institucion. 
 
-El Magíster me entrego conocimientos para elaborar proyectos de innovación en las políticas públicas, mediante la metodología Ágil y una mirada estadística para modelar e inferir información. El Policy paper elaborado para la titularme de este, consistió en una propuesta de automatizar el proceso de Trazabilidad de casos y contactos de SARS Covid-19 mediante Bots. Este fue un proyecto colaborativo entre el departamento de políticas públicas de Facebook latinoamerica y el Laboratorio de Gobierno del Ministerio de Hacienda.
+El Magíster me entrego conocimientos para elaborar proyectos de innovación en las políticas públicas, mediante la metodología Ágil y una mirada estadística para modelar e inferir información. El Policy paper consistió en una propuesta de automatizar el proceso de Trazabilidad de casos y contactos de SARS Covid-19 mediante Bots. Este fue un proyecto colaborativo entre el departamento de políticas públicas de Facebook latinoamerica y el Laboratorio de Gobierno del Ministerio de Hacienda.
 
 Me considero una persona metódica, ordenada y muy sociable, me gusta compartir con el equipo dentro y fuera del trabajo. En el ámbito laboral disfruto enfocarme en las tareas de desarrollo enfocado a las metas. Considero que la horizontalidad, el trabajo en equipo y la cooperación son esenciales para el éxito de cualquier organización.
 
@@ -38,6 +38,7 @@ Me considero una persona metódica, ordenada y muy sociable, me gusta compartir 
 
 ### Ingeniero en gestión de datos epidemiologicos 📊
 _SEREMI de Salud RM Sub-departameto Epidemiologica, Santiago de Chile_
+
 Agosto del 2020, a la fecha
 - Confección de indicadores de trazabilidad para la Estrategia de Testeo, Trazabilidad y Aislamiento
 - Confección de informes estadísticos de vacunas de la campaña SARS-COV-2 y otras campañas
@@ -47,12 +48,14 @@ Agosto del 2020, a la fecha
 
 ### Co-fundador y lider de Startup Ecobit 🤖
 _Ecobit, Santiago de Chile_
+
 Abril del 2019 a Septiembre del 2020  
 - Desarrollo e implementación de sensores de Internet de las cosas (IoT), solución enfocada para la gestión y automatización logística de materiales y residuos  
 - El proyecto estuvo financiado por el programa de SAF Social de CORFO y se desarrolló dentro de la incubadora de innovación de la fundación Desafío Levantemos Chile  
 
 ### Analista de información del área de operaciones 🧻
 _Papel Higiénico Incoludido, Santiago de Chile_
+
 Octubre del 2016 a Junio del 2019  
 - Analista de información de ventas  
 - Diseño de aplicación movil para la gestión logística para distribuidores del producto  
